@@ -248,17 +248,17 @@ function closeText2(){
 </div>	
 	
 <div class="right-column">
-<!--block-->
+<!--блок-->
 <div class="go-block">
 <?php include './modules/block.php';?>
 </div>
-<!--block-->
+<!--блок-->
 
-<!--realm-->			
+<!--реалм-->			
 <div class="realm-status-bg">		
 <?php include './modules/realm.php';?>
 </div>	
-<!--realm-->
+<!--реалм-->
 
 <!--client-->
 <div class="client-bg">
