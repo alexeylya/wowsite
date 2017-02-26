@@ -302,7 +302,7 @@ VK.Widgets.Group("vk_groups", {mode: 0, width: "255", height: "220", color1: 'be
 <div class="clear">
 </div>
 </article>
-
+</br></br>
 <div class="content-bg-bottom">
 <?php include './modules/footer.php';?>
 </div>
